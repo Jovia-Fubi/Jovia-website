@@ -1,0 +1,59 @@
+/* Universal styling for all pages */
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('image/back.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    min-height: 100vh;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Styling for headings */
+h1, h2 {
+    color: #ffcc00;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #ffcc00;
+    color: #000;
+}
+
+button:hover {
+    background-color: #ffc107;
+    color: #fff;
+}
+
+/*galary page styling*/
+div
+img/image{
+    border-radius: 10px;
+    transition: transform 0.35 ease, box-shadow 0.3s ease;
+}
+img.hover{
+    transform: scale(1.o5);
+    box-shadow: 0 8px 15px rgb(rgb(29, 28, 28);
+
+}
+/*main content*/
+div
+p{
+    color: #ffcc00;
+}
+/*Profile Section*/
+h2{
+    padding: 20px;
+    
+}
+
+
+
